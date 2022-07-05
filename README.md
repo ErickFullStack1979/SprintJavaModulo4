@@ -7,7 +7,7 @@ Cristian Maturana
 https://github.com/cristianmib/SprintModulo4
 
 Erick Diaz 
-https://github.com/ErickFullStack1979/SprintJavaModulo4/
+https://github.com/ErickFullStack1979/SprintJavaModulo4
 
 Francisco Carreño
 https://github.com/FJCV13/AsesoriaSprint
